@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ScoreBoard.svg"
+   inkscape:export-filename="C:\Users\Levi Wright\Documents\Aptana Studio 3 Workspace\4-Way_Chess\Misc\ScoreBoard.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter3841"
+       x="-0.09"
+       width="1.18"
+       y="-0.18"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-1"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-4"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-2"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-77" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-4-6"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-5-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-2-6"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-77-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60-6"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60-1"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60-1-2"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2-7-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60-1-27"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2-7-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3841-60-1-27-8"
+       x="-0.090000004"
+       width="1.1799999"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.75"
+         id="feGaussianBlur3843-2-7-6-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3927"
+       x="-1.1973913"
+       width="3.3947826"
+       y="-0.046053512"
+       height="1.092107">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4945652"
+         id="feGaussianBlur3929" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-164.93635"
+     inkscape:cy="533.96871"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="stroke:none;fill:#ff7f2a;fill-opacity:1"
+       id="rect2985"
+       width="300"
+       height="800"
+       x="0"
+       y="252.36218" />
+    <rect
+       style="stroke:none"
+       id="rect2987"
+       width="290"
+       height="780"
+       x="0"
+       y="262.36218" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3832"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Algerian;-inkscape-font-specification:Algerian"><flowRegion
+         id="flowRegion3834"><rect
+           id="rect3836"
+           width="82.832512"
+           height="54.548237"
+           x="346.48233"
+           y="227.06755" /></flowRegion><flowPara
+         id="flowPara3838">Yellow</flowPara></flowRoot>    <g
+       id="g4467"
+       transform="translate(0,2)">
+      <rect
+         y="312.80615"
+         x="25.00255"
+         height="50"
+         width="100"
+         id="rect3757"
+         style="fill:#ff0000;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841)" />
+      <flowRoot
+         transform="translate(-259.85585,168.09874)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041" /></flowRegion><flowPara
+           id="flowPara3043">Red</flowPara></flowRoot>    </g>
+    <g
+       id="g4474"
+       transform="translate(0,2)">
+      <rect
+         y="312.80615"
+         x="165.16249"
+         height="50"
+         width="100"
+         id="rect3757-09"
+         style="fill:#ff0000;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841-1)" />
+      <flowRoot
+         transform="translate(-119.69591,168.09874)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-8"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-8" /></flowRegion><flowPara
+           id="flowPara3043-2">Red</flowPara></flowRoot>    </g>
+    <g
+       id="g4481"
+       transform="translate(0,-6.5347188)">
+      <rect
+         y="389.95593"
+         x="25.00255"
+         height="50"
+         width="100"
+         id="rect3757-17"
+         style="fill:#00ff00;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841-4)" />
+      <flowRoot
+         transform="translate(-272.03212,245.40868)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-1"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-5" /></flowRegion><flowPara
+           id="flowPara3043-27">Green</flowPara></flowRoot>    </g>
+    <g
+       id="g4502"
+       transform="translate(0,-23.782552)">
+      <rect
+         y="475.81888"
+         x="25.00255"
+         height="50"
+         width="100"
+         id="rect3757-31"
+         style="fill:#0055d4;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841-2)" />
+      <flowRoot
+         transform="translate(-263.79482,331.46352)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-98"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-6"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-50" /></flowRegion><flowPara
+           id="flowPara4108">Blue</flowPara></flowRoot>    </g>
+    <g
+       id="g4509"
+       transform="translate(0,-42.040588)">
+      <rect
+         y="562.69202"
+         x="25.00255"
+         height="50"
+         width="100"
+         id="rect3757-6"
+         style="fill:#800080;fill-opacity:0.26984127;stroke:none;filter:url(#filter3841-60)" />
+      <flowRoot
+         transform="translate(-276.2621,415.79222)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-0"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-90" /></flowRegion><flowPara
+           id="flowPara3043-0">Purple</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4017"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+       transform="translate(34.754015,115.15739)"><flowRegion
+         id="flowRegion4019"><rect
+           id="rect4021"
+           width="107.07617"
+           height="71.720833"
+           x="7.0710678"
+           y="143.22488"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina" /></flowRegion><flowPara
+         id="flowPara4023">Turn</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4025"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+       transform="translate(-20.324205,66.670068)"><flowRegion
+         id="flowRegion4027"><rect
+           id="rect4029"
+           width="269.71072"
+           height="48.487324"
+           x="174.75639"
+           y="192.72237"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina" /></flowRegion><flowPara
+         id="flowPara4031">Checked</flowPara></flowRoot>    <g
+       id="g4488"
+       transform="translate(0,-7.5448506)">
+      <rect
+         y="390.96606"
+         x="165.16249"
+         height="50"
+         width="100"
+         id="rect3757-17-8"
+         style="fill:#00ff00;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841-4-6)" />
+      <flowRoot
+         transform="translate(-131.87218,246.41881)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-1-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-1-3"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-5-4" /></flowRegion><flowPara
+           id="flowPara3043-27-4">Green</flowPara></flowRoot>    </g>
+    <g
+       id="g4495"
+       transform="translate(0,-19.741933)">
+      <rect
+         y="471.77826"
+         x="165.16249"
+         height="50"
+         width="100"
+         id="rect3757-31-8"
+         style="fill:#0055d4;fill-opacity:0.27058824;stroke:none;filter:url(#filter3841-2-6)" />
+      <flowRoot
+         transform="translate(-123.63488,327.42291)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-98-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-6-9"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-50-6" /></flowRegion><flowPara
+           id="flowPara4108-3">Blue</flowPara></flowRoot>    </g>
+    <g
+       id="g4516"
+       transform="translate(0,-38)">
+      <rect
+         y="558.65143"
+         x="165.16249"
+         height="50"
+         width="100"
+         id="rect3757-6-8"
+         style="fill:#800080;fill-opacity:0.26984127;stroke:none;filter:url(#filter3841-60-6)" />
+      <flowRoot
+         transform="translate(-136.10216,411.75161)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431373;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-5-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-0-2"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.78431373;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-90-9" /></flowRegion><flowPara
+           id="flowPara3043-0-1">Purple</flowPara></flowRoot>    </g>
+    <g
+       id="g4509-4"
+       transform="matrix(1.1119728,0,0,1,6.6619136,155.56352)">
+      <rect
+         y="626.3316"
+         x="12.880719"
+         height="50"
+         width="100"
+         id="rect3757-6-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3841-60-1)" />
+      <flowRoot
+         transform="translate(-277.25307,479.43183)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-5-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-0-4"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="60.609154"
+             width="119.198"
+             id="rect3041-90-8" /></flowRegion><flowPara
+           id="flowPara3867">Save</flowPara></flowRoot>    </g>
+    <g
+       id="g3909"
+       transform="translate(3.3047076,1.2338867e-5)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3841-60-1-2)"
+         id="rect3757-6-0-5"
+         width="100"
+         height="50"
+         x="12.880719"
+         y="626.3316"
+         transform="matrix(1.1119728,0,0,1,140.19008,155.56351)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3037-5-9-5"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         transform="matrix(1.1119728,0,0,1,-169.05253,634.99534)"><flowRegion
+           id="flowRegion3039-0-4-1"><rect
+             id="rect3041-90-8-7"
+             width="119.198"
+             height="60.609154"
+             x="313.14728"
+             y="150.29596"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina" /></flowRegion><flowPara
+           id="flowPara3867-1">Load</flowPara><flowPara
+           id="flowPara3907" /></flowRoot>    </g>
+    <g
+       id="g4509-4-1"
+       transform="matrix(1.1119728,0,0,1,6.3879758,232.33511)">
+      <rect
+         y="626.3316"
+         x="12.880719"
+         height="50"
+         width="100"
+         id="rect3757-6-0-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3841-60-1-27)"
+         transform="matrix(2.0470073,0,0,1,-4.0631412,0)" />
+      <flowRoot
+         transform="translate(-249.40884,479.43183)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-5-9-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-0-4-3"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="59.599003"
+             width="143.72568"
+             id="rect3041-90-8-2" /></flowRegion><flowPara
+           id="flowPara3867-2">New Game</flowPara></flowRoot>    </g>
+    <g
+       id="g4509-4-1-2"
+       transform="matrix(1.1119728,0,0,1,6.3879758,309.1067)">
+      <rect
+         y="626.3316"
+         x="12.880719"
+         height="50"
+         width="100"
+         id="rect3757-6-0-4-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3841-60-1-27-8)"
+         transform="matrix(2.0470073,0,0,1,-4.0631412,0)" />
+      <flowRoot
+         transform="translate(-212.55483,479.43183)"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+         id="flowRoot3037-5-9-2-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3039-0-4-3-5"><rect
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Alsina;-inkscape-font-specification:Alsina"
+             y="150.29596"
+             x="313.14728"
+             height="59.599003"
+             width="143.72568"
+             id="rect3041-90-8-2-4" /></flowRegion><flowPara
+           id="flowPara3867-2-3">Quit</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3093"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:1px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3095"><rect
+           id="rect3097"
+           width="149.50258"
+           height="47.477169"
+           x="92.934036"
+           y="588.70215" /></flowRegion><flowPara
+         id="flowPara3099"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3117"
+       style="font-size:0.74293137px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Alsina;-inkscape-font-specification:Alsina"
+       transform="matrix(49.554136,0,0,58.498222,-2000.6326,-34927.781)"><flowRegion
+         id="flowRegion3119"><rect
+           id="rect3121"
+           width="135.36044"
+           height="59.598999"
+           x="42.426407"
+           y="606.88489"
+           style="font-size:0.74293137px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Alsina;-inkscape-font-specification:Alsina" /></flowRegion><flowPara
+         id="flowPara3123">Teams</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3927)"
+       id="rect3125"
+       width="5"
+       height="130"
+       x="142.5"
+       y="626.07782" />
+  </g>
+</svg>
